@@ -16,8 +16,8 @@
     <depend>tf</depend>
     <depend>rosbag</depend>
     <depend>std_msgs</depend>
-    <depend>geom_msgs</depend>
-    <depend>numpy</depend>
+    <depend>geometry_msgs</depend>
+    <depend>python-numpy</depend>
 
     <export>
     </export>

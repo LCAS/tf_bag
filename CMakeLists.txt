@@ -9,16 +9,6 @@ catkin_package()
 
 
 #############
-## Install ##
-#############
-
-install(PROGRAMS
-  scripts/tf_bag.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
-
-
-#############
 ## Testing ##
 #############
 
