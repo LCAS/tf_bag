@@ -2,8 +2,8 @@
 Changelog for package tf_bag
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2019-02-05)
+------------------
 * Changes for proper install
 * Added install option
 * Update package.xml
