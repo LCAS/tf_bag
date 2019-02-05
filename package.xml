@@ -4,7 +4,7 @@
     <version>0.1.0</version>
     <description>Utilities to transparently use tf data recorded with rosbag</description>
 
-    <maintainer email="marco.esposito@tum.de">Marco Esposito</maintainer>
+    <maintainer email="mfernandezcarmona@lincoln.ac.uk">Manuel Fernandez-Carmona</maintainer>
 
     <license>LGPLv3</license>
 
